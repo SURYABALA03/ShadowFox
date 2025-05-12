@@ -1,4 +1,4 @@
-ShadowFox:
+ShadowFox
 
 ShadowFox Java Development Internship. This repository contains the projects and tasks completed during my 1-month virtual internship at ShadowFox, focused on Java Development (1st May - 30th May 2025). During this internship, I worked on real-world challenges, gaining hands-on experience and practical knowledge in Java programming. This experience has helped me build foundational skills essential for entry-level positions and has significantly enhanced my employability and confidence in the subject.
 
